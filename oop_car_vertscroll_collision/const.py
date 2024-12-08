@@ -1,0 +1,4 @@
+SCREEN_WIDTH: int = 400
+SCREEN_HEIGHT: int = 600
+FPS: int = 60
+SPEED = 5
